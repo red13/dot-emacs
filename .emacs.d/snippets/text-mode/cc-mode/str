@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: struct { ... }; typedef ...;
+# --
+struct tag_${1:name_t}{
+	$0
+};
+typedef struct tag_$1 $1;

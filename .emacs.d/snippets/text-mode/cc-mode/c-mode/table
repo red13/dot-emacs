@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: const table[] = { ... };
+# --
+const ${1:table}[] = {
+	$0
+};

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: #if defined( ... )
+# --
+#if	defined(${1:CONFIG})
+$0
+#else	/* defined($1) */
+#endif	/* defined($1) */

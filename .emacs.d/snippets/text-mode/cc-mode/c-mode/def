@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+# name: #define DEF
+# --
+#define	${1:DEF}

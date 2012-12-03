@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: void func( void ){ ... }
+# --
+/**
+ * @brief
+ */
+void
+${1:func_name}( void )
+{
+	$0
+}
